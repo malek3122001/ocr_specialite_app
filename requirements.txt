@@ -8,4 +8,5 @@ opencv-python-headless
 numpy
 pillow
 pandas
+setuptools
 rapidfuzz
