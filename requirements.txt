@@ -1,10 +1,7 @@
 streamlit
 paddleocr
 paddlepaddle
-<<<<<<< HEAD
 opencv-python-headless
-=======
->>>>>>> f4b8613 (🔧 Removed OpenCV to fix Streamlit Cloud deployment)
 numpy
 pillow
 pandas
